@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karki77
-- 👀 I’m interested in full time Job offers web developer.
+- 👀 I’m interested in full time Job offers web developer/software developer(focus backend).
 - 🌱 I’m currently finished learning Mern Stack Development course.
 - 💞️ I’m looking to collaborate with comapnies which could provide me the opportunities in the field of web/software Development. Any contacts and refers would be highly appreciated.
 - 📫 How to reach me ...
