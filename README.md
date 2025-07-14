@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karki77
+- 👋 Hi, I’m Kuber Karki
 - 👀 I’m interested in full time Job offers of software developer(focus backend). 
 - 💞️ I’m looking to collaborate with comapnies which could provide me the opportunities in the field of web/software Development. Any contacts and refers would be highly appreciated.
 - 📫 How to reach me ...
